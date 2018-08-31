@@ -1,0 +1,17 @@
+# Data
+dataset/
+
+# Model
+checkpoints/
+models/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Miscellaneous
+.env
+*.sh
